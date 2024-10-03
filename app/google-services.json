@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266488477571",
+    "project_id": "testapp-6104d",
+    "storage_bucket": "testapp-6104d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266488477571:android:95effa0934626777db68b6",
+        "android_client_info": {
+          "package_name": "com.bagusrizki.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB69jP4suTjA7vsuSUn7136D5Bq6vV2Co4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
